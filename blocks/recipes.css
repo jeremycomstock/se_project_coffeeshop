@@ -9,6 +9,7 @@
 }
 
 .recipes__title {
+  margin: 0;
   max-width: 580px;
   font-style: normal;
   font-weight: 500;

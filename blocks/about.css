@@ -32,7 +32,7 @@
 }
 
 .about__content {
-  margin: 9px 0 0;
+  margin: 19px 0 0;
   max-width: 660px;
   gap: 20px;
 }
@@ -45,8 +45,8 @@
   color: white;
 }
 
-.about__paragraph:last-of-type {
-  margin-bottom: 0;
+.about__paragraph:first-of-type {
+  margin-top: 0;
 }
 
 .about__circle {
